@@ -1,0 +1,2 @@
+package coders.db.sample.connections;public class DbConn {
+}
